@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarloweWind
 - 👀 I’m interested in iOS developing
-- 🌱 I’m currently looking for job
+- 🌱 I’m currently working at FINCH
 - 💞️ I’m looking to collaborate on cool new project
 - 📫 How to reach me marlowe.wind@gmail.com
 <!---
